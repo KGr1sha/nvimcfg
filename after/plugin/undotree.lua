@@ -1,0 +1,2 @@
+--undotree does not work on windows out of the box and I am lazy to fix it :)
+--vim.keymap.set('n', '<leader>u', vim.cmd.UndotreeToggle)
